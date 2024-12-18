@@ -1,0 +1,14 @@
+{
+  "name": "blog_api_node",
+  "version": "1.0.0",
+  "description": "Blog api built with node, express and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
